@@ -1,0 +1,35 @@
+[
+    {
+        "class": "Manager",
+        "data": {
+            "id": 1,
+            "name": "Alice",
+            "age": 40,
+            "salary": 8000,
+            "team": [
+                {
+                    "id": 2,
+                    "name": "Bob",
+                    "age": 30,
+                    "salary": 5000
+                },
+                {
+                    "id": 3,
+                    "name": "Charlie",
+                    "age": 28,
+                    "salary": 4500
+                }
+            ]
+        }
+    },
+    {
+        "class": "Contractor",
+        "data": {
+            "id": 4,
+            "name": "Diana",
+            "age": 35,
+            "contractPeriod": "6 months",
+            "hourlyRate": 50
+        }
+    }
+]
